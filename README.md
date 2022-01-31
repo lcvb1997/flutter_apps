@@ -1,2 +1,3 @@
 # flutter_apps
-Aplicativos flutter que vou atualizar
+Aplicativos flutter que vou atualizar.
+Teste de commit
